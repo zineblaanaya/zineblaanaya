@@ -8,10 +8,8 @@
      
 - 🩹 Je m'interesse fortement à l'accessibilité dans la tech, œuvrant pour des solutions inclusives et innovantes.
 
-Languages and Tools:
+### --Languages and Tools--:
 
-
-![Html5]([https://encrypted-tbn0.gst](https://www.flaticon.com/fr/icone-gratuite/html-5_5968267))
 - html5
 - css3
 - sass
