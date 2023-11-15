@@ -8,7 +8,7 @@
      
 - 🩹 Je m'interesse fortement à l'accessibilité dans la tech, œuvrant pour des solutions inclusives et innovantes.
 
-### --Languages and Tools--:
+### Languages and Tools:
 
 - html5
 - css3
