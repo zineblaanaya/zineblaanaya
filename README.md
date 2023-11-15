@@ -1,4 +1,4 @@
-# Bonjour, moi c'est Zineb 👋
+# Hello, moi c'est Zineb 👋
 
 🎓 Après une carrière dans les ressources humaines, je me suis lancée dans le passionnant monde de la tech.
 
