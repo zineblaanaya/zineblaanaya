@@ -1,16 +1,27 @@
-### Hi i am Zineb 👋
+### Bonjour, moi c'est Zineb 👋
 
-<!--
-**zineblaanaya/zineblaanaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭  Après une carrière dans les ressources humaines, Je me suis lancée dans le passionannant monde de la tech.
+  
+- 📚 Je suis plutôt orientée front, mon langage de prédilection est le javascript, le framework que j'utilise est React.
+     Cependant, je m'intéresse de plus en plus au backend, en étudiant NodeJs.
+     
+- 🩹 Je m'interesse fortement à l'accessibilité dans la tech, œuvrant pour des solutions inclusives et innovantes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+![Html5](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFoe4hk4hqypQZ9w6SXHZEgVfuZYIgYouu5Y-i5S6CHA&s)
+- html5
+- css3
+- sass
+- tailwind
+- javascript
+- React
+- Node.js
+- Express
+- MongoDb
+- Github
+- Figma
+
+
+
+
