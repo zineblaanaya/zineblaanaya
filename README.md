@@ -1,16 +1,19 @@
 # Bonjour, moi c'est Zineb 👋
 
-🔭 Après une carrière dans les ressources humaines, je me suis lancée dans le passionnant monde de la tech.
+🎓 Après une carrière dans les ressources humaines, je me suis lancée dans le passionnant monde de la tech.
 
-📚 Je suis plutôt orientée front-end, mon langage de prédilection est le JavaScript, et le framework que j'utilise est React. Cependant, je m'intéresse de plus en plus au backend, en étudiant Node.js.
+📚 Je suis plutôt orientée front-end, mon langage de prédilection est le JavaScript, et le framework que j'utilise est React. Cependant, je m'intéresse de plus en 
+   plus au backend, en étudiant Node.js.
 
 🩹 Je m'intéresse fortement à l'accessibilité dans la tech, œuvrant pour des solutions inclusives et innovantes.
 
 ## À propos de moi:
 
-- 🎉 Actuellement, je jongle entre trois passions : j'apprends le patin à roulettes pour éviter les obstacles de la vie, je suis la chef pâtissière officielle pour que mes amis roulent de plaisir avec mes gâteaux, et je suis secrètement amoureuse de New York. 
+- 🎉 Actuellement, je jongle entre trois passions : j'apprends le patin à roulettes pour éviter les obstacles de la vie, je suis la cheffe pâtissière officielle 
+     pour ma famille et amis, et je suis folle amoureuse de la ville de New York. 
 
-- ⛸️🎂 Peut-être qu'un jour, je patinerai jusqu'à la Grosse Pomme avec un gâteau dans chaque main, prête à conquérir la ville qui ne dort jamais (et à satisfaire les estomacs qui ne se taisent jamais)!
+- ⛸️🎂 Peut-être qu'un jour, je patinerai jusqu'à la Grosse Pomme avec un gâteau dans chaque main, prête à conquérir la ville qui ne dort jamais (et à satisfaire 
+      les estomacs qui ne se taisent jamais)!
 
 ## Languages and Tools:
 
@@ -23,5 +26,7 @@
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 - ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
