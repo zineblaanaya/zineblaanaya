@@ -12,9 +12,6 @@
 - 🎉 Actuellement, je jongle entre trois passions : j'apprends le patin à roulettes pour éviter les obstacles de la vie, je suis la cheffe pâtissière officielle 
      pour ma famille et amis, et je suis folle amoureuse de la ville de New York. 
 
-- ⛸️🎂 Peut-être qu'un jour, je patinerai jusqu'à la Grosse Pomme avec un gâteau dans chaque main, prête à conquérir la ville qui ne dort jamais (et à satisfaire 
-      les estomacs qui ne se taisent jamais)!
-
 ## Languages and Tools:
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
